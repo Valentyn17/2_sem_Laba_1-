@@ -1,0 +1,11 @@
+E:\Projects\Laba_1\C_sharp_proga\bin\Debug\netcoreapp3.0\C_sharp_proga.exe
+E:\Projects\Laba_1\C_sharp_proga\bin\Debug\netcoreapp3.0\C_sharp_proga.deps.json
+E:\Projects\Laba_1\C_sharp_proga\bin\Debug\netcoreapp3.0\C_sharp_proga.runtimeconfig.json
+E:\Projects\Laba_1\C_sharp_proga\bin\Debug\netcoreapp3.0\C_sharp_proga.runtimeconfig.dev.json
+E:\Projects\Laba_1\C_sharp_proga\bin\Debug\netcoreapp3.0\C_sharp_proga.dll
+E:\Projects\Laba_1\C_sharp_proga\bin\Debug\netcoreapp3.0\C_sharp_proga.pdb
+E:\Projects\Laba_1\C_sharp_proga\obj\Debug\netcoreapp3.0\C_sharp_proga.csprojAssemblyReference.cache
+E:\Projects\Laba_1\C_sharp_proga\obj\Debug\netcoreapp3.0\C_sharp_proga.AssemblyInfoInputs.cache
+E:\Projects\Laba_1\C_sharp_proga\obj\Debug\netcoreapp3.0\C_sharp_proga.AssemblyInfo.cs
+E:\Projects\Laba_1\C_sharp_proga\obj\Debug\netcoreapp3.0\C_sharp_proga.dll
+E:\Projects\Laba_1\C_sharp_proga\obj\Debug\netcoreapp3.0\C_sharp_proga.pdb
