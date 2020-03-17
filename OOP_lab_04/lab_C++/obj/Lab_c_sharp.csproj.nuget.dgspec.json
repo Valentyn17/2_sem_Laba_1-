@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\OOP_lab_04\\lab_C++\\Lab_c_sharp.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\OOP_lab_04\\lab_C++\\Lab_c_sharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\OOP_lab_04\\lab_C++\\Lab_c_sharp.csproj",
+        "projectName": "Lab_c_sharp",
+        "projectPath": "E:\\Projects\\OOP_lab_04\\lab_C++\\Lab_c_sharp.csproj",
+        "packagesPath": "C:\\Users\\Валентин\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\OOP_lab_04\\lab_C++\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Валентин\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\lab_C++.exe
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\lab_C++.deps.json
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\lab_C++.runtimeconfig.json
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\lab_C++.runtimeconfig.dev.json
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\lab_C++.dll
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\lab_C++.pdb
+E:\Projects\OOP_lab_04\lab_C++\obj\Debug\netcoreapp3.0\lab_C++.csprojAssemblyReference.cache
+E:\Projects\OOP_lab_04\lab_C++\obj\Debug\netcoreapp3.0\lab_C++.AssemblyInfoInputs.cache
+E:\Projects\OOP_lab_04\lab_C++\obj\Debug\netcoreapp3.0\lab_C++.AssemblyInfo.cs
+E:\Projects\OOP_lab_04\lab_C++\obj\Debug\netcoreapp3.0\lab_C++.dll
+E:\Projects\OOP_lab_04\lab_C++\obj\Debug\netcoreapp3.0\lab_C++.pdb

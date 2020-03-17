@@ -1,0 +1,11 @@
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\Lab_c_sharp.exe
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\Lab_c_sharp.deps.json
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\Lab_c_sharp.runtimeconfig.json
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\Lab_c_sharp.runtimeconfig.dev.json
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\Lab_c_sharp.dll
+E:\Projects\OOP_lab_04\lab_C++\bin\Debug\netcoreapp3.0\Lab_c_sharp.pdb
+E:\Projects\OOP_lab_04\lab_C++\obj\Debug\netcoreapp3.0\Lab_c_sharp.csprojAssemblyReference.cache
+E:\Projects\OOP_lab_04\lab_C++\obj\Debug\netcoreapp3.0\Lab_c_sharp.AssemblyInfoInputs.cache
+E:\Projects\OOP_lab_04\lab_C++\obj\Debug\netcoreapp3.0\Lab_c_sharp.AssemblyInfo.cs
+E:\Projects\OOP_lab_04\lab_C++\obj\Debug\netcoreapp3.0\Lab_c_sharp.dll
+E:\Projects\OOP_lab_04\lab_C++\obj\Debug\netcoreapp3.0\Lab_c_sharp.pdb
