@@ -1,8 +1,0 @@
-E:\Projects\OOP_lab_05\Classes\bin\Debug\netstandard2.0\Classes.deps.json
-E:\Projects\OOP_lab_05\Classes\bin\Debug\netstandard2.0\Classes.dll
-E:\Projects\OOP_lab_05\Classes\bin\Debug\netstandard2.0\Classes.pdb
-E:\Projects\OOP_lab_05\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfoInputs.cache
-E:\Projects\OOP_lab_05\Classes\obj\Debug\netstandard2.0\Classes.AssemblyInfo.cs
-E:\Projects\OOP_lab_05\Classes\obj\Debug\netstandard2.0\Classes.dll
-E:\Projects\OOP_lab_05\Classes\obj\Debug\netstandard2.0\Classes.pdb
-E:\Projects\OOP_lab_05\Classes\obj\Debug\netstandard2.0\Classes.csprojAssemblyReference.cache
