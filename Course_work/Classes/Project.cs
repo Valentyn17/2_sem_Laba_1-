@@ -33,10 +33,15 @@ namespace Classes
         {
             if (tasks.Count >= number && tasks.Count > 0 && number > 0)
             {
-                int i = find_worker_in_team(tasks[number - 1].worker);
-                team[i].with_task = false;
-                tasks.RemoveAt(number - 1);
-                Console.WriteLine("Task was  deleting!");
+                if (tasks[number - 1].worker != null)
+                {
+                    int i = find_worker_in_team(tasks[number - 1].worker);
+                    team[i].with_task = false;
+                    tasks.RemoveAt(number - 1);
+                    Console.WriteLine("Task was  deleting!");
+                }
+                else
+                    tasks.RemoveAt(number - 1);
             }
             else throw new Exception("We can't find task with this number");
         }
